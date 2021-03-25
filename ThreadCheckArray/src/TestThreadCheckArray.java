@@ -2,7 +2,7 @@ import java.util.ArrayList;
 //
 import java.util.Scanner;
 /**
- * 
+ * Katerina2
  * @author 97254
  * each thread checks on his own and reports if finds an answer
  * 		first used as initial size and then for holding "b" the sum we look for
